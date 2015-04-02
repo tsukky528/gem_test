@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["e.tsukiyama@aktsk.jp"]
   spec.summary       = %q{test}
   spec.description   = %q{test}
-  spec.extensions = ["ext/extconf.rb"]
+  spec.extensions    = ["./ext/extconf.rb"]
   spec.homepage      = "https://github.com/tsukky528/gem_test"
   spec.license       = "MIT"
 
